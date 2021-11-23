@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhinandan8055
-- 👀 I’m interested in ...travelling
+- 👀 I’m interested in ...travelling by car
 - 🌱 I’m currently learning ...github
 - 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ...by phone
